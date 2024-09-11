@@ -1,0 +1,8 @@
+body {
+    background-color: rgb(8, 104, 53);
+    font-family: "Times New Roman", Times, serif;
+}
+body > header{
+    background-color: orange;
+    color: white;
+}
